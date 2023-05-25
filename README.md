@@ -1,2 +1,1 @@
-# brocode
-Automated resume builder
+# School
